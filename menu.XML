@@ -1,0 +1,12 @@
+<menu>
+	<food>
+		<name>Pizza</name>
+		<price>$20</price>
+		<cal><560/cal>
+	</food>
+	<food>
+		<name>hotdog</name>
+		<price>$12</price>
+		<cal><380/cal>
+	</food>
+</menu>
